@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="roll">Roll</string>
+    <string name="jogue_o_dado">Jogue o Dado!</string>
+</resources>
