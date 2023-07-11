@@ -19,8 +19,9 @@ Neste aplicativo foi projetado para jogar o dado e número da sorte aparece.
 # Tecnologia
 Esse projeto foi desenvolvindo com as seguintes tecnologias:
 
-* Linguagem = Kotlin e XML
-* Android
+* Kotlin
+* XML
+* Android Studio
 * Git e Github
 
 # Autor
